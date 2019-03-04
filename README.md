@@ -1,3 +1,3 @@
 # recommendationwithgeotagging
-Applying ALS algorithm in order to create a recommendation engine.
+Applying ALS algorithm in order to create a recommendation.
 adding asfdasd
